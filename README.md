@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Alphacot (André Luiz)
+- 👀 I’m interested in Outsystems and Js language
+- 🌱 I’m currently learning Outsystems and Js.
